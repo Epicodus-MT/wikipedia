@@ -1,0 +1,12 @@
+.blue {
+  color: blue
+}
+
+.right{
+  text-align: right;
+}
+
+.row {
+  padding:10px;
+  border: solid green;
+}

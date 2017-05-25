@@ -1,5 +1,5 @@
 .blue {
-  color: blue
+  color: blue;
 }
 
 .right{
@@ -9,6 +9,17 @@
   text-align: center;
 }
 
+#green-row {
+  background-color: #D0FCD5;
+}
+
+#purple-row {
+  background-color: #E3D0FC;
+}
+
+#gray-row {
+  background-color: #D8D2D2;
+}
 .row {
   padding:10px;
   border: solid green;
